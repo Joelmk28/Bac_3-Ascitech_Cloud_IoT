@@ -14,14 +14,13 @@ Il était question aux étudiants de faire chacun son <b>Curriculum Vitae (CV)</
 
 Voici les CV Finaux des étudiants :
 
-1) LEONARDO RUBUZ : 
-2) DANIEL JOY TANCKWE :
-3) DAN DANAYI :  https://danzodan.github.io/CV-web/
-4) SOLIDE JONATHAN : 
-5) CHRISTIAN MUTOMB : 
-6) LIONEL KIANGEBENI : 
-7) ELEGANCE BADERA : 
-8) CHRISTANY ILUNGA : 
-9) ARCHANGE DUKI : 
-10) DAVID MUTUMBE : 
+1) ARCHANGE DUKI : https://archangedukis.github.io/mon_cv/
+2) CHRISTANY ILUNGA : https://chrisilunga.github.io/MonCv/
+3) CHRISTIAN MUTOMB : https://christianmutomb96.github.io/mon_cv/ 
+4) DAN DANAYI :  https://danzodan.github.io/CV-web/
+5) DANIEL JOY TANCKWE : https://danieljucke.github.io/My-resume-/
+6) DAVID MUTUMBE : https://davidmutuche.github.io/moncv/
+7) ELEGANCE BADERA : https://euniceelegance.github.io/Mon_cv/
+8) LEONARDO RUBUZ : https://leonardorubuz.github.io/myportfolio/ 
+9) LIONEL KIANGEBENI : https://lionellyon.github.io/lionel_kiangebeni/
 
