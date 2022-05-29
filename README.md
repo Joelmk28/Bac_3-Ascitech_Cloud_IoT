@@ -1,4 +1,4 @@
-## LABORATOI DES ETUDIANTS DE BAC 3 DE ASCITECH/KINSHASA/DRC
+## LABORATOI DES ETUDIANTS DE BAC3 DE ASCITECH/KINSHASA/DRC
 
 Il était question dans le cadre du cours d'Internet des Objets et Cloud, aux étudiants de Bac 3 de l'Université d'ASCITECH d'effectuer quelques laboratoire chez <b>IBM Watson IoT Platform et IBM Cloud</b>.
 
