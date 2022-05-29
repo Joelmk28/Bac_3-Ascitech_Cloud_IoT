@@ -1,4 +1,4 @@
-## <u>Laboratoire des étudiants de BAC3 de l'Université <a href="https://www.ascitech.cd/">ASCITECH</a></u>
+## <u>Laboratoire des étudiants de BAC3 de l'Université <a href="https://www.ascitech.cd/">ASCITECH/DRC</a></u>
 
 Il était question dans le cadre du cours <b>d'Internet des Objets et Cloud </b>, aux étudiants de Bac_3 de l'Université d'ASCITECH d'effectuer quelques laboratoires chez <b>IBM Watson IoT Platform et IBM Cloud</b>.
 
