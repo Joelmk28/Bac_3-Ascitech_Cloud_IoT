@@ -8,3 +8,20 @@ IBM Watson IoT Platform est une solution de développement dédiée à la progra
 ### C'est quoi  <a href="https://cloud.ibm.com/docs/overview?topic=overview-whatis-platform&locale=fr">IBM Cloud </a> ?
 La plateforme IBM Cloud associe la plateforme sous forme de service (PaaS) à l'infrastructure sous forme de service (IaaS) afin d'offrir une expérience intégrée. La plateforme s'adapte à la fois à de petites organisations et équipes de développement et à de grandes entreprises et les prend en charge. Globalement déployée dans des centres de données dans le monde entier, la solution générée sur IBM Cloud® est rapide et s'exécute en toute fiabilité dans un environnement testé et pris en charge digne de confiance.
 
+Les étudiants ont suivi quelques cours sur la plateforme et ces cours sont sanctionnés par un examen final pour avoir le IBM badge (certificat) une fois réussir à l'examen avec 80% ou plus.
+
+Il était question aux étudiants de faire chacun son <b>Curriculum Vitae (CV)</b> en y ajoutant les liens de tous les certificats (IBM badge) obtenu.
+
+Voici les CV Finaux des étudiants :
+
+1) LEONARDO RUBUZ : 
+2) DANIEL JOY TANCKWE :
+3) DAN DANAYI :  https://danzodan.github.io/CV-web/
+4) SOLIDE JONATHAN : 
+5) CHRISTIAN MUTOMB : 
+6) LIONEL KIANGEBENI : 
+7) ELEGANCE BADERA : 
+8) CHRISTANY ILUNGA : 
+9) ARCHANGE DUKI : 
+10) DAVID MUTUMBE : 
+
