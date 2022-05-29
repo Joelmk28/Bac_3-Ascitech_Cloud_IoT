@@ -1,6 +1,6 @@
 ## <u>Laboratoire des étudiants de BAC3 de l'Université <a href="https://www.ascitech.cd/">ASCITECH/DRC</a></u>
 
-Il était question dans le cadre du cours <b>d'Internet des Objets et Cloud </b>, aux étudiants de Bac_3 de l'Université d'ASCITECH d'effectuer quelques laboratoires chez <b>IBM Watson IoT Platform et IBM Cloud</b>.
+Il était question dans le cadre du cours <b>d'Internet des Objets et Cloud </b>, aux étudiants de Bac3 de l'Université ASCITECH d'effectuer quelques laboratoires chez <b>IBM Watson IoT Platform et IBM Cloud</b>.
 
 ### Que couvre <a href="https://cloud.ibm.com/docs/IoT?topic=IoT-about_iotplatform">IBM Watson IoT Platform </a>?
 IBM Watson IoT Platform est une solution de développement dédiée à la programmation des objets connectés. Collecte des données, partage d’informations, analyse et déploiement des modèles… De nombreuses fonctionnalités sont disponibles pour gérer ses projets IA.
